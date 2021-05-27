@@ -1,0 +1,4 @@
+This is ravi.
+The things written in this file are the result of a shell script that pulls the whole data from the terminal (i.e. appearing there).
+
+Press Ctrl+D to terminate the file writing.

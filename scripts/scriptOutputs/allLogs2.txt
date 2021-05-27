@@ -1,0 +1,11 @@
+total 32
+drwxrwxr-x 2 ravi ravi 4096 May 18 23:48 .
+drwxrwxr-x 7 ravi ravi 4096 May 18 23:40 ..
+-rw-rw-r-- 1 ravi ravi  469 May 18 23:48 allLogs1.txt
+-rw-rw-r-- 1 ravi ravi    0 May 18 23:48 allLogs2.txt
+-rw-rw-r-- 1 ravi ravi  361 May 18 23:47 allLogs.txt
+-rwxrwxr-x 1 ravi ravi  250 May 18 23:48 basic.sh
+-rw-rw-r-- 1 ravi ravi    0 May 18 23:48 errorsLogs.txt
+-rw-rw-r-- 1 ravi ravi  415 May 18 23:48 outputs1.txt
+-rw-rw-r-- 1 ravi ravi  415 May 18 23:48 outputs2.txt
+-rw-rw-r-- 1 ravi ravi  254 May 18 23:47 output.txt
