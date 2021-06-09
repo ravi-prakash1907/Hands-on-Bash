@@ -4,7 +4,7 @@ echo "hope you have already installed SMTP ('ssmtp')..."
 echo ""
 
 ##  email addr
-# ssmtp get1907facebook@gmail.com ---> facing some issue
+# ssmtp xxxxxxxx@yyyy.zzz ---> facing some issue
 
 ## now terminal will start reading whatever you write to form mail
 
@@ -22,7 +22,7 @@ read $body
 
 
 echo "To: $rcvr" > email.txt
-echo "From: get1907facebook@gmail.com" >> email.txt
+echo "From: xxxxxxxx@yyyy.zzz" >> email.txt
 echo "Cc: $cc" >> email.txt
 echo "Subject: $sub" >> email.txt
 echo "$body" >> email.txt
