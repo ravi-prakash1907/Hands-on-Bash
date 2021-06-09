@@ -3,11 +3,11 @@
 This repository covers a almost all the basics of bash shell scripting, startig from scratch!  
 
 ## Topics Covered
-The complete repository is arranged in following 23 major topics. These topics are given below:  
+The complete repository is arranged in following 22 major topics. These topics are given below:  
 
 1. [Hello Bash Scripting](scripts/helloScript.sh)  
-2. [Redirect to file](scripts/)  
-3. [Comments](scripts/)  
+2. [Redirect to file](scripts/redFile.sh)  
+3. [Comments+](scripts/commentsPlus)  
  	> single line  
  	> multi line  
  	> heredoc  
@@ -108,10 +108,6 @@ The complete repository is arranged in following 23 major topics. These topics a
  	> while execution cmd (bash -x)  
  	> decleared in script (#!\<path-bash\> -x)  
  	> Specific part (set -x ...\<to be debugged\>... set +x)  
-
-23. [Comments+](scripts/commentsPlus/)  
- 	> single and multi-line comments  
- 	> heredoc  
 
 ---  
 
