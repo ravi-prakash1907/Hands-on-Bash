@@ -1,4 +1,4 @@
-# Hands on Bash **\>**  
+# Let's Bash **\>**  
 ![bashbanner](./assets/banner.jpg)  
 
 This repository covers a almost all the basics of bash shell scripting, startig from scratch!  
